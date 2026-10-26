@@ -139,6 +139,7 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
   - Code: https://github.com/laude-institute/terminal-bench
   - Year: 2025
   - Tags: terminal, command line, agent interaction, environment, system administration
+- **[LevelBench-100](https://github.com/levelcfo/levelbench-100)** - Multi-file CLI, browser, and ERP evaluation benchmark testing AI agents across 100 real-world accounting and financial close workflows ([Leaderboard](https://levelcfo.com/ai-benchmark/)).
 
 #### Logic & Reasoning
 - **Sudoku-Bench** - Benchmark testing logical reasoning capabilities through Sudoku puzzle solving
